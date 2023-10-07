@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "criptografie sapt1 03.10.23/1.0.0": {
+        "runtime": {
+          "criptografie sapt1 03.10.23.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "criptografie sapt1 03.10.23/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

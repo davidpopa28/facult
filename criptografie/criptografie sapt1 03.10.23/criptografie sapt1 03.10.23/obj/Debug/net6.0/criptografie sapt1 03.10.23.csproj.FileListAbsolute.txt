@@ -1,0 +1,14 @@
+C:\Users\david\OneDrive\Desktop\criptografie\criptografie sapt1 03.10.23\criptografie sapt1 03.10.23\bin\Debug\net6.0\criptografie sapt1 03.10.23.exe
+C:\Users\david\OneDrive\Desktop\criptografie\criptografie sapt1 03.10.23\criptografie sapt1 03.10.23\bin\Debug\net6.0\criptografie sapt1 03.10.23.deps.json
+C:\Users\david\OneDrive\Desktop\criptografie\criptografie sapt1 03.10.23\criptografie sapt1 03.10.23\bin\Debug\net6.0\criptografie sapt1 03.10.23.runtimeconfig.json
+C:\Users\david\OneDrive\Desktop\criptografie\criptografie sapt1 03.10.23\criptografie sapt1 03.10.23\bin\Debug\net6.0\criptografie sapt1 03.10.23.dll
+C:\Users\david\OneDrive\Desktop\criptografie\criptografie sapt1 03.10.23\criptografie sapt1 03.10.23\bin\Debug\net6.0\criptografie sapt1 03.10.23.pdb
+C:\Users\david\OneDrive\Desktop\criptografie\criptografie sapt1 03.10.23\criptografie sapt1 03.10.23\obj\Debug\net6.0\criptografie sapt1 03.10.23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\OneDrive\Desktop\criptografie\criptografie sapt1 03.10.23\criptografie sapt1 03.10.23\obj\Debug\net6.0\criptografie sapt1 03.10.23.AssemblyInfoInputs.cache
+C:\Users\david\OneDrive\Desktop\criptografie\criptografie sapt1 03.10.23\criptografie sapt1 03.10.23\obj\Debug\net6.0\criptografie sapt1 03.10.23.AssemblyInfo.cs
+C:\Users\david\OneDrive\Desktop\criptografie\criptografie sapt1 03.10.23\criptografie sapt1 03.10.23\obj\Debug\net6.0\criptografie sapt1 03.10.23.csproj.CoreCompileInputs.cache
+C:\Users\david\OneDrive\Desktop\criptografie\criptografie sapt1 03.10.23\criptografie sapt1 03.10.23\obj\Debug\net6.0\criptografie sapt1 03.10.23.dll
+C:\Users\david\OneDrive\Desktop\criptografie\criptografie sapt1 03.10.23\criptografie sapt1 03.10.23\obj\Debug\net6.0\refint\criptografie sapt1 03.10.23.dll
+C:\Users\david\OneDrive\Desktop\criptografie\criptografie sapt1 03.10.23\criptografie sapt1 03.10.23\obj\Debug\net6.0\criptografie sapt1 03.10.23.pdb
+C:\Users\david\OneDrive\Desktop\criptografie\criptografie sapt1 03.10.23\criptografie sapt1 03.10.23\obj\Debug\net6.0\criptografie sapt1 03.10.23.genruntimeconfig.cache
+C:\Users\david\OneDrive\Desktop\criptografie\criptografie sapt1 03.10.23\criptografie sapt1 03.10.23\obj\Debug\net6.0\ref\criptografie sapt1 03.10.23.dll
