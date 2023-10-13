@@ -1,0 +1,14 @@
+C:\Users\david\OneDrive\Desktop\facult\criptografie\criptografie sapt2\criptografie sapt2\criptografie sapt2\bin\Debug\net6.0\criptografie sapt2.exe
+C:\Users\david\OneDrive\Desktop\facult\criptografie\criptografie sapt2\criptografie sapt2\criptografie sapt2\bin\Debug\net6.0\criptografie sapt2.deps.json
+C:\Users\david\OneDrive\Desktop\facult\criptografie\criptografie sapt2\criptografie sapt2\criptografie sapt2\bin\Debug\net6.0\criptografie sapt2.runtimeconfig.json
+C:\Users\david\OneDrive\Desktop\facult\criptografie\criptografie sapt2\criptografie sapt2\criptografie sapt2\bin\Debug\net6.0\criptografie sapt2.dll
+C:\Users\david\OneDrive\Desktop\facult\criptografie\criptografie sapt2\criptografie sapt2\criptografie sapt2\bin\Debug\net6.0\criptografie sapt2.pdb
+C:\Users\david\OneDrive\Desktop\facult\criptografie\criptografie sapt2\criptografie sapt2\criptografie sapt2\obj\Debug\net6.0\criptografie sapt2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\OneDrive\Desktop\facult\criptografie\criptografie sapt2\criptografie sapt2\criptografie sapt2\obj\Debug\net6.0\criptografie sapt2.AssemblyInfoInputs.cache
+C:\Users\david\OneDrive\Desktop\facult\criptografie\criptografie sapt2\criptografie sapt2\criptografie sapt2\obj\Debug\net6.0\criptografie sapt2.AssemblyInfo.cs
+C:\Users\david\OneDrive\Desktop\facult\criptografie\criptografie sapt2\criptografie sapt2\criptografie sapt2\obj\Debug\net6.0\criptografie sapt2.csproj.CoreCompileInputs.cache
+C:\Users\david\OneDrive\Desktop\facult\criptografie\criptografie sapt2\criptografie sapt2\criptografie sapt2\obj\Debug\net6.0\criptografie sapt2.dll
+C:\Users\david\OneDrive\Desktop\facult\criptografie\criptografie sapt2\criptografie sapt2\criptografie sapt2\obj\Debug\net6.0\refint\criptografie sapt2.dll
+C:\Users\david\OneDrive\Desktop\facult\criptografie\criptografie sapt2\criptografie sapt2\criptografie sapt2\obj\Debug\net6.0\criptografie sapt2.pdb
+C:\Users\david\OneDrive\Desktop\facult\criptografie\criptografie sapt2\criptografie sapt2\criptografie sapt2\obj\Debug\net6.0\criptografie sapt2.genruntimeconfig.cache
+C:\Users\david\OneDrive\Desktop\facult\criptografie\criptografie sapt2\criptografie sapt2\criptografie sapt2\obj\Debug\net6.0\ref\criptografie sapt2.dll
